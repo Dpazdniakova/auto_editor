@@ -70,6 +70,9 @@ Update the main function with:
 - Paths to stock videos
 - Timestamps for integrating stock footage
 
+[Example of output](https://github.com/user-attachments/assets/1b737cd2-1229-47e3-89f2-c57166e7d4fd)
+
+
 ### 3. SubtitleGenerator
 
 Automatically generates and overlays subtitles on your video.
@@ -79,6 +82,8 @@ python subtitle_generator.py
 ```
 
 Update the main function with the path to your processed video.
+
+[Example of output](https://github.com/user-attachments/assets/91365259-5df4-425b-87e0-01fd7eee99b8)
 
 ## Complete Pipeline
 
