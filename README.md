@@ -25,7 +25,7 @@ AutoShorts is an automated video processing pipeline that speeds up the process 
   whisper
   ```
 
-## 🚀 Installation
+##  Installation
 
 1. Clone this repository:
    ```bash
@@ -43,7 +43,7 @@ AutoShorts is an automated video processing pipeline that speeds up the process 
    - **macOS**: `brew install ffmpeg`
    - **Linux**: `sudo apt install ffmpeg`
 
-## 🎬 Usage
+##  Usage
 
 AutoShorts consists of three main modules that can be used independently or together:
 
@@ -82,7 +82,7 @@ python subtitle_generator.py
 
 Update the main function with the path to your processed video.
 
-## 🔄 Complete Pipeline
+## Complete Pipeline
 
 For a complete pipeline, run the scripts in sequence:
 
