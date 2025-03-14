@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.12.8%2B-blue.svg)](https://www.python.org/downloads/)
 
-AutoShorts is an automated video processing pipeline that speeds up the process of editing regular videos into short-form content for platforms like YouTube Shorts, TikTok, and Instagram Reels.
+This project is an automated video processing pipeline that speeds up the process of editing regular videos into short-form content for platforms like YouTube Shorts, TikTok, and Instagram Reels.
 
 ##  Features
 
