@@ -40,8 +40,6 @@ AutoShorts is an automated video processing pipeline that speeds up the process 
 
 3. Install FFmpeg (if not already installed):
    - **Windows**: Download from [here](https://ffmpeg.org/download.html) and add to PATH
-   - **macOS**: `brew install ffmpeg`
-   - **Linux**: `sudo apt install ffmpeg`
 
 ##  Usage
 
